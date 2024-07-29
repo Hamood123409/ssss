@@ -1,0 +1,15 @@
+{
+    "Autoreply_1139139624372019270": [
+        {
+            "word": "test",
+            "reply": "test",
+            "replyonmessage": "True",
+            "mention": "True",
+            "deletemessage": "True",
+            "Wildcard": "True",
+            "AddedBy": "1076256190503321641",
+            "ID": 1
+        }
+    ],
+    "ReplyID_1139139624372019270": 2
+}
